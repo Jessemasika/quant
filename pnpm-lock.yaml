@@ -54,7 +54,7 @@ importers:
         specifier: ^4.9.0
         version: 4.9.0(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       recharts:
-        specifier: 3.8.0
+        specifier: ^3.8.0
         version: 3.8.0(@types/react@19.2.14)(react-dom@19.2.3(react@19.2.3))(react-is@18.3.1)(react@19.2.3)(redux@5.0.1)
       sonner:
         specifier: ^2.0.7
